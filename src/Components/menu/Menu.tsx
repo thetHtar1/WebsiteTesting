@@ -67,9 +67,7 @@ const HeaderComponent = () => {
           className=" top-6 text-3xl right-5 absolute "
           onClick={() => setOpen(!open)}
         >
-          <svg className="w-6 h-6 text-gray-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
-          </svg>        </div>
+             </div>
         <div className="h-full overflow-y-auto">
           <SubLinks />
         </div>
