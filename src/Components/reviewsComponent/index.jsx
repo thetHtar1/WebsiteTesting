@@ -10,7 +10,7 @@ export default function ReviewsComponent(){
                         Customer <br></br> Experiences
                     </h1>
                     <p className="mt-[15px] md:mt-[31px] text-[12px] md:text-[20px] inter font-normal team-para">
-                        At Smilax Global, we take pride in providing high-quality products and services that meet the needs of our customers. But don't just take our word for it.  Check out what our customers have to say about our products! These reviews are a great way to get a sense of the quality and effectiveness of our offerings, straight from the people who matter most our customers. Take a few minutes to browse our customer reviews and discover what sets us apart.
+                        At Smilax Global, we take pride in providing high-quality products and services that meet the needs of our customers. But don&lsquo;t just take our word for it.  Check out what our customers have to say about our products! These reviews are a great way to get a sense of the quality and effectiveness of our offerings, straight from the people who matter most our customers. Take a few minutes to browse our customer reviews and discover what sets us apart.
                     </p>
                 </div>
             </div>
