@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.1.0",
+    "@chakra-ui/system": "^2.6.0",
     "@types/react-dom": "18.2.7",
     "animate.css": "^4.1.1",
     "eslint": "8.47.0",
