@@ -8,7 +8,7 @@ import Footer from "@/Components/footer/Footer"
 const HomePage=()=>{
     return(
         <div>
-            <Menu/>
+   
             <HomeBodyComponent/>
             <Projects/>
 <SlidingImages/>
