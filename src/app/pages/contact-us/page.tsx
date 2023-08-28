@@ -1,5 +1,5 @@
 import Menu from "@/Components/menu/Menu";
-import ContactComponent from '../../Components/contactComponent'
+import ContactComponent from '@/Components/contactComponent'
 import Footer from "@/Components/footer/Footer";
 import FooterCurve from "@/Components/FooterCurve";
 
