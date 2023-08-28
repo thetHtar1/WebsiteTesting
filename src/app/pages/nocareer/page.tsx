@@ -1,5 +1,5 @@
 'use client'
-import Nocareer from './Nocareer.json'
+import Nocareer from '@/app/pages/nocareer/Nocareer.json'
 import Lottie from "lottie-react";
 import Menu from '@/Components/menu/Menu'
 import FooterCurve from '@/Components/FooterCurve';
