@@ -4,22 +4,22 @@
   @import 'tailwindcss/base';
   @import 'tailwindcss/components';
   @import 'tailwindcss/utilities';
-  @import '../styles/aboutus.css';
-@import '../styles/footer.css';
-@import'../styles/security.css';
-@import '../styles/careers.css';
-@import '../styles/callcenter.css';
-@import '../styles/softwaresolution.css';
-@import '../styles/websolution.css';
-@import '../styles/cookie.css';
-@import '../styles/cookiepolicy.css';
-@import '../styles/contact.css';
-@import '../styles/team.css';
-@import '../styles/aboutus.css';
-@import '../styles/milestones.css';
-@import '../styles/pagetransition.css';
-@import '../styles/privacy.css';
-@import '../styles/reviews.css';
+  @import './css/aboutus.css';
+@import './css/footer.css';
+@import'./css/security.css';
+@import './css/careers.css';
+@import './css/callcenter.css';
+@import './css/softwaresolution.css';
+@import './css/websolution.css';
+@import './css/cookie.css';
+@import './css/cookiepolicy.css';
+@import './css/contact.css';
+@import './css/team.css';
+@import './css/aboutus.css';
+@import './css/milestones.css';
+@import './css/pagetransition.css';
+@import './css/privacy.css';
+@import './css/reviews.css';
 
 
 :root {
