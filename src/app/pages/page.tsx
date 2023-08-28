@@ -1,9 +1,9 @@
 'use client'
 import HomePage from './Home/Page'
-import pagetransition from "../app/Home/pagetransition.json";
+import pagetransition from '@/app/pages/Home/pagetransition.json';
 import Lottie from "lottie-react";
 import { useEffect, useState } from 'react'
-import Cookies from '../app/cookie'
+import Cookies from '@/Components/cookieComponent'
 import 'tailwindcss/tailwind.css'
 import '@/styles/globals.css'
 export default function Home() {
