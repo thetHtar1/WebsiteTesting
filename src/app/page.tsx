@@ -5,7 +5,7 @@ import Lottie from "lottie-react";
 import { useEffect, useState } from 'react'
 import Cookies from '../app/cookie'
 import 'tailwindcss/tailwind.css'
-import './globals.css'
+import '@/styles/globals.css'
 export default function Home() {
   const [loading, setLoading] = useState(true);
   useEffect(() => {
