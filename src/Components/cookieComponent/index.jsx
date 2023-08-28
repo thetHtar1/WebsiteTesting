@@ -1,7 +1,6 @@
 'use client'
 import React, { useState } from 'react';
 import { useEffect } from 'react';
-import './cookie.css'
 import Link from 'next/link';
 export default function Cookies() {
  const [showPopup, setShowPopup] = useState(false);

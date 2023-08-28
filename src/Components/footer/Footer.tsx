@@ -4,7 +4,6 @@ import styles from './style.module.scss';
 import { useRef } from "react";
 import { useScroll, useTransform, motion } from "framer-motion";
 import Magnetic from '../Magnetic/Magnetic'
-import './footer.css'
 
 
 export default function Footer() {

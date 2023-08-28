@@ -3,7 +3,6 @@ import img1 from "../../../public/images/partner1.jpg"
 import img2 from "../../../public/images/partner2.jpg"
 import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
-import './websolution.css'
 export default function WebSolutionComponent() {
   const [showImage, setShowImage] = useState(false);
 

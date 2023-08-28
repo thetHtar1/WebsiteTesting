@@ -1,6 +1,5 @@
 'use client'
 import { useState, useEffect } from 'react';
-import './milestones.css'
 export default function MilestonesComponent() {
 
   const text = [

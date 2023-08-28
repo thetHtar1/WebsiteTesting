@@ -1,4 +1,3 @@
-import './cookiepolicy.css'
 
 export default function CookiePolicyComponent( ) {
     return(

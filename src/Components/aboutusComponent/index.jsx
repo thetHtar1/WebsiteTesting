@@ -8,7 +8,6 @@ import MDimg1 from '../../../public/images/MDimg1.jpg'
 import MDimg2 from '../../../public/images/MDimg2.jpg'
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
-import './aboutus.css'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";

@@ -1,4 +1,3 @@
-import './privacy.css'
 export default function PrivacyPolicyComponent() {
     return (
         <>

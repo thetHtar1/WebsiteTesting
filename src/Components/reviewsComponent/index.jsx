@@ -1,6 +1,5 @@
 import Image from "next/image";
 import callImg1 from '../../../public/images/call.jpg'
-import './reviews.css'
 export default function ReviewsComponent(){
     return(
         <>

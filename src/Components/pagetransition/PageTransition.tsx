@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './pagetransition.css'
 export default function Pagetransition() {
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);

@@ -2,7 +2,6 @@
 import { useState, useRef, useEffect } from "react";
 import {ArrowDownIcon} from '@chakra-ui/icons'
 import { ArrowUpIcon } from "@chakra-ui/icons";
-import './careers.css'
 
 
 export default function CareersComponent() {

@@ -9,7 +9,6 @@ import sendiocn from "../../../public/svg/send.svg"
 import { useState, useEffect } from 'react'
 import { useForm } from "react-hook-form";
 import { useScroll, useTransform, motion } from 'framer-motion';
-import './contact.css'
 
 
 

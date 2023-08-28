@@ -5,7 +5,6 @@ import callImg2 from '../../../public/images/callcenter4.jpg'
 import callImg3 from '../../../public/images/callcenter3.jpg'
 import callImg4 from '../../../public/images/callcenter2.jpg'
 import { useState, useRef, useEffect } from "react"
-import './softwaresolution.css'
 
 export default function SoftwareSolutionComponent() {
 

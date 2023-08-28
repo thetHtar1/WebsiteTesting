@@ -5,7 +5,6 @@ import { useRef, useEffect, useState } from "react";
 import Image from "next/image";
 import img1 from "../../../public/images/security1.png";
 import img2 from "../../../public/images/security2.png";
-import './security.css'
 
 export default function SecurityComponent() {
   const [showImage, setShowImage] = useState(false);
