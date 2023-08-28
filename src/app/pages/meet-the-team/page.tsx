@@ -1,5 +1,4 @@
 import React from 'react'
-import  staffimg  from "../../../public/htetsu.jpg";
 import Image from "next/image";
 import Menu from '@/Components/menu/Menu';
 import FooterCurve from '@/Components/FooterCurve';
